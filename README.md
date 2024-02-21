@@ -4,8 +4,10 @@
 
 <br>
 
-<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Charitha Pieris</h1><br>
-<h3 align="center">I am a Cyber Security undergraduate student (Deakin/Australia)</h3><br>
+<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>,  I'm Charitha Pieris </h1><br>
+
+
+<h3 align="center">I am a Cyber Security undergraduate student @ (Deakin/Australia)</h3><br>
 
 
 <table align="center">  
@@ -23,6 +25,9 @@
   - 📫 How to reach me **charithapieris@gmail.com**
   
   - ⚡ Fun fact **You can call me Chariya**
+
+  - 📞 My Moble **+94 761 308 322**
+    
   </td>
 
   <td width="50%" align="center">
