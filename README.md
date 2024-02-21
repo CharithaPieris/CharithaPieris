@@ -8,7 +8,7 @@
 <h3 align="center">I am a Cyber Security undergraduate student (Deakin/Australia)</h3><br>
 
 
-<table align="center">
+<table align="center">  
   <tr border="none">
   <td width="50%" align="left">
   
@@ -59,6 +59,17 @@
 
 ---
 
+ <br> <br>
+## By the way here are some of my statistics 🚀
+![Charitha's github stats](https://github-readme-stats.vercel.app/api?username=CharithaPieris&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CharithaPieris&theme=tokyonight" alt="mystreak"/>
+![Charitha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharithaPieris&theme=tokyonight&layout=compact)
+
+
+ <br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
   <br><h3 align="center">Connect with me:</h3><br>
 
   <p align="center">
@@ -75,3 +86,7 @@
 <br>
 
 ---
+
+ ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
+
