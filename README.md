@@ -84,9 +84,10 @@
 
 
 ## By the way here are some of my statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="40" height="40"/>
-![Charitha's github stats](https://github-readme-stats.vercel.app/api?username=CharithaPieris&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CharithaPieris&theme=tokyonight" alt="mystreak"/>
-![Charitha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharithaPieris&theme=tokyonight&layout=compact)
+
+![CharithaPieris's Stats](https://github-readme-stats.vercel.app/api?username=CharithaPieris&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![CharithaPieris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CharithaPieris&theme=nightowl&hide_border=true)
+![CharithaPieris's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharithaPieris&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 
  <br><br>
