@@ -85,10 +85,13 @@
 
 ## By the way here are some of my statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="40" height="40"/>
 
-  
-  ![CharithaPieris's Stats](https://github-readme-stats.vercel.app/api?username=CharithaPieris&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-  ![CharithaPieris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CharithaPieris&theme=nightowl&hide_border=true)
-  ![CharithaPieris's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharithaPieris&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+ <p align="center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=CharithaPieris&theme=nightowl&show_icons=true&hide_border=true&count_private=true" width="500">
+   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=CharithaPieris&theme=nightowl&hide_border=true" width="500">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CharithaPieris&theme=nightowl&show_icons=true&hide_border=true&layout=compact" width="500">
+ </p>
+
+
   
 
  <br><br>
