@@ -10,6 +10,11 @@
 <h3 align="center">I am a Cyber Security undergraduate student @ (Deakin/Australia)</h3><br>
 
 
+
+
+<!---------------------------------------------------------------------------------------------------- Bio Section ---------------------------------------------------------------------------------------------------------------------->
+
+
 <table align="center">  
   <tr border="none">
   <td width="50%" align="left">
@@ -31,15 +36,25 @@
   </td>
 
   <td width="50%" align="center">
+
+
+
+    
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
   </td>
   </tr>
 </table>
 
 
+<!-------------------------------------------------------------------------------------------------------- GitLogo ---------------------------------------------------------------------------------------------------------------------->
+
+
 <br><br>
 <p align="center"><img src = "https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif"></p>
 <br><br>
+
+
+<!---------------------------------------------------------------------------------------------------- Tools Section ---------------------------------------------------------------------------------------------------------------------->
 
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages | Tools 
@@ -61,6 +76,10 @@
   </p>
 </h2>
 
+
+<!---------------------------------------------------------------------------------------------------- Skill Section ---------------------------------------------------------------------------------------------------------------------->
+
+
 <br><br>
   <h2> <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="40" height="40"> Skills 
     <p align="center">
@@ -70,18 +89,22 @@
     </p>
   </h2><br><br>
 
+
+<!-------------------------------------------------------------------------------------------------------------- Eve Gif ---------------------------------------------------------------------------------------------------------------------->
+
+
   <p align="center"><img src = "https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500" height="500"></p>
  
-  
-
-<img src = "https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg1Mjk0MzcsIm5iZiI6MTcwODUyOTEzNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIxVDE1MjUzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzYjQ4MjJiNDg4ODE5OWRhYTI2YWNlMzZjMjQ5NjNiYmUwNmZkMDY0OGExMzdlZDc1ZWRkMTJhZmU4M2RmODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oQ7n2NnyLZ8YaucyuShj1s7o24W7B7eGc1Hn2t_RNww" >
-
-
 <br>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- <br> <br>
+<!-------------------------------------------------------------------------------------------------------------- Line ---------------------------------------------------------------------------------------------------------------------->
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br> <br>
+
+
+
+<!-------------------------------------------------------------------------------------------------------------- statistics ---------------------------------------------------------------------------------------------------------------------->
 
 ## By the way here are some of my statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="40" height="40"/>
 
@@ -98,9 +121,14 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
+<!-------------------------------------------------------------------------------------------------------------- Pacman ---------------------------------------------------------------------------------------------------------------------->
+
 <center>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000" >
 </center>
+
+
+<!-------------------------------------------------------------------------------------------------------------- Social ---------------------------------------------------------------------------------------------------------------------->
 
 
   <br><h3 align="center">Connect with me:</h3><br>
@@ -119,6 +147,9 @@
 <br>
 
 ---
+
+<!-------------------------------------------------------------------------------------------------------------- Snake game ---------------------------------------------------------------------------------------------------------------------->
+
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
