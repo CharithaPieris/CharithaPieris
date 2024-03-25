@@ -66,7 +66,7 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html5" height="50" width="50"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" height="50" width="50"/></a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="docker" height="50" width="50"/></a>
-    <br>
+    <br><br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" height="50" width="50"/></a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="vuejs" height="50" width="50"/></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/raw/main/icons/NodeJS-Light.svg" alt="nodejs" height="50" width="50"/></a> 
