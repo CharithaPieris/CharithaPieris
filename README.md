@@ -117,7 +117,7 @@
 ## By the way here are some of my statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="40" height="40"/>
 <br>
 
- <table BORDER=10>
+ <table>
    <tr>
      <td>
           <img src = "https://github-readme-stats.vercel.app/api?username=CharithaPieris&theme=nightowl&show_icons=true&hide_border=true&count_private=true" width="500"><br>
