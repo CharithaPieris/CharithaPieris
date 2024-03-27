@@ -9,7 +9,7 @@
 
 <h3 align="center">I am a Cyber Security undergraduate student @ (Deakin/Australia)</h3><br>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=229954&style=flat" alt="scar1109" /> </p>
 
 
 <!---------------------------------------------------------------------------------------------------- Bio Section ---------------------------------------------------------------------------------------------------------------------->
@@ -108,7 +108,7 @@
 <!-------------------------------------------------------------------------------------------------------------- Line ---------------------------------------------------------------------------------------------------------------------->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br> <br>
+<br> <br><br>
 
 
 
@@ -116,14 +116,21 @@
 
 ## By the way here are some of my statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="40" height="40"/>
 <br>
- <p align="center">
-   <img src = "https://github-readme-stats.vercel.app/api?username=CharithaPieris&theme=nightowl&show_icons=true&hide_border=true&count_private=true" width="500"> <br>
-   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=CharithaPieris&theme=nightowl&hide_border=true" width="500"> <br>
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CharithaPieris&theme=nightowl&show_icons=true&hide_border=true&layout=compact" width="500">
- </p>
+
+ <table BORDER=10>
+   <tr>
+     <td>
+          <img src = "https://github-readme-stats.vercel.app/api?username=CharithaPieris&theme=nightowl&show_icons=true&hide_border=true&count_private=true" width="500"><br>
+          <img src = "https://github-readme-streak-stats.herokuapp.com/?user=CharithaPieris&theme=nightowl&hide_border=true"width="500"> <br>
+          <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CharithaPieris&theme=nightowl&show_icons=true&hide_border=true&layout=compact" width="500">
+     </td>
+     <td>
+       <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CharithaPieris&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="697"/>
+     </td>
+   </tr>
+ </table>
 
 
-  
 
  <br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
