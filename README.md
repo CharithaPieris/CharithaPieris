@@ -93,8 +93,7 @@
       <a href="https://www.VisualStudio.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio" height="50" width="50"/></a>&nbsp;
       <a href="https://www.VSCode.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" height="50" width="50"/></a>&nbsp;
     </p>
-  </h2><br><br>
-
+  </h2>
 
 <!-------------------------------------------------------------------------------------------------------------- Eve Gif ---------------------------------------------------------------------------------------------------------------------->
 
