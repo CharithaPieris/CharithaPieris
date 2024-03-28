@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1028165181911601213/1222817804735086642/wallpaperflare.com_wallpaper_3.jpg?ex=661798d3&is=660523d3&hm=d3c0fa9d7a19a7e9bc07a27e633e852e400b32873c1fd82b4bba3ff5ebd885e3&"></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/1028165181911601213/1222819192760176681/wallpaperflare.com_wallpaper_4.jpg?ex=66179a1e&is=6605251e&hm=c3684395d3fd9c2bbef0c57d6dc658d0777d87b22fa453443e111282a479b624&=&format=webp&width=1440&height=405"></p>
 
 <br>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
