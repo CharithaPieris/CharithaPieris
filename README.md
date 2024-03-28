@@ -1,5 +1,6 @@
-<br>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1028165181911601213/1222812901434196038/github-header-image_2.png?ex=66179442&is=66051f42&hm=dfced7cee13cf5fb0705bdbddd73b1ac126ee36edfcc48a1cdc80a5921a0a11b&"></p>
 
+<br>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <br>
