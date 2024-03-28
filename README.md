@@ -175,6 +175,17 @@
 <h3 align="left">Activity:</h3> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CharithaPieris&bg_color=550e7c&color=ffffff&line=3cb951&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br><br>
+<br><br><br><br>
+
+
+
+<!-------------------------------------------------------------------------------------------------------------- Join Discord ---------------------------------------------------------------------------------------------------------------------->
+
+<h3 align="center">Join our Discord server</h3>
+<p align="center">
+  <a href="https://discord.gg/twAtvQeg" target="blank"><img src="https://camo.githubusercontent.com/b15646585366435f766c6e4e0e1999d2a6ea59925bb78836519aabd882169c59/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667"height="100" width="100">
+</p>
+
+
 
 
