@@ -65,6 +65,8 @@
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" height="50" width="50"/></a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css3" height="50" width="50"/></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html5" height="50" width="50"/></a>
+ <a href="https://www.Powershell.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg
+" alt="html5" height="50" width="50"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" height="50" width="50"/></a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="docker" height="50" width="50"/></a>
     <br><br>
