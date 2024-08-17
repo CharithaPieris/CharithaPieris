@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.discordapp.net/attachments/1028165181911601213/1222819861726494761/wallpaperflare.com_wallpaper_4.jpg?ex=66179abd&is=660525bd&hm=9c26ca023be24c63f7a7136d7a8e28f3605abbd4e2cc1e0e11937b3e0c39f97b&=&format=webp&width=1440&height=348"></p>
+
 
 <br>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
