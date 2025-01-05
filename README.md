@@ -184,7 +184,7 @@
 
 <h3 align="center">Click the Icon to join our Discord server</h3>
 <p align="center">
-  <a href="https://discord.gg/twAtvQeg" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+  <a href="https://discord.gg/DjwYt7Kfec" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
 </p>
 
 
