@@ -182,11 +182,9 @@
 
 <!-------------------------------------------------------------------------------------------------------------- Join Discord ---------------------------------------------------------------------------------------------------------------------->
 
-<h3 align="center">Join our Discord server</h3>
+<h3 align="center">Click the Icon to join our Discord server</h3>
 <p align="center">
-  <a href="https://discord.gg/twAtvQeg" target="blank"><img src="https://camo.githubusercontent.com/b15646585366435f766c6e4e0e1999d2a6ea59925bb78836519aabd882169c59/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667"height="100" width="100">
+  <a href="https://discord.gg/twAtvQeg" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
 </p>
-
-
 
 
